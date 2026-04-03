@@ -63,3 +63,20 @@ streamlit run register.py --server.port 8502
 | `firebase_key.json` | Firebase credentials (ຢ່າ share!) |
 | `requirements.txt` | Python dependencies |
 | `.streamlit/config.toml` | Theme ສີທອງ-ແດງ |
+
+---
+
+## Credits & Inspiration
+
+This project was inspired by and studied from:
+
+- **[Streamlit + Firebase Karaoke Event App](https://github.com/WindJammer6/18.-Deployed-Streamlit-Python-and-Firebase-Web-Application-Project-for-a-Karaoke-Event)**
+  by [WindJammer6](https://github.com/WindJammer6)
+  — Architecture concept: Streamlit form → Firebase Realtime DB → Queue display
+
+- **[Firebase Realtime Database](https://firebase.google.com/docs/database)**
+  by Google — Real-time data sync backend
+
+- **[Streamlit](https://streamlit.io)** — Python web app framework
+
+> Built as part of **TBW System 1** learning test project by [Khamphang](https://github.com/Khamphang)
